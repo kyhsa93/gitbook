@@ -6,7 +6,7 @@
 
 * [도메인 주도 설계와 계층형 구조](service-design/domain-deriven-design-layered-architecture.md)
 
-## nestjs
+## project
 
-* [REST CQRS Example](https://kyhsa93.gitbook.io/nestjs-rest-cqrs-example)
+* [NestJS REST CQRS Example](https://kyhsa93.gitbook.io/nestjs-rest-cqrs-example)
 
