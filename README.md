@@ -80,6 +80,12 @@ Coursera의 Google Cloud의 4 과정 "Architecting with Google Kubernetes Engine
 
 ## ETC
 
+#### SOPT
+
+2020.01.16
+
+* 27기 ON SOPT APPJAM 서버파트 멘
+
 #### DDD study 2, 3, 4기
 
 2019.03 ~ 2020.10
