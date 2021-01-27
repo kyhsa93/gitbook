@@ -53,6 +53,15 @@ description: 고영훈(Young) - Backend engineer
 
 ## Project
 
+#### 모두싸인 문서 파일 일괄 다운로드 기능 개
+
+2020.09 ~ 2021.01
+
+* 사용자가 가지고 있는 파일들을 하나의 ZIP 으로 만들어서 다운로드 받을 수 있도록 제공
+* ZIP 을 AWS S3 Object 로 만든 후 일정시간동안 다운로드 할 수 있는 Sign 된 URL 제공
+* 파일 Read, Compression, Update 모두 Stream 으로 Pipe 하여 처리
+* AWS S3 Lifecycle rule 로 만들어진 ZIP 이 일정시간 후 만료 및 삭제
+
 #### 모두싸인 사용자 계정 추가 기능 개발 및 운영
 
 2020.04 ~ 2020.09
