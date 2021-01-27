@@ -53,7 +53,7 @@ description: 고영훈(Young) - Backend engineer
 
 ## Project
 
-#### 모두싸인 문서 파일 일괄 다운로드 기능 개
+#### 모두싸인 문서 파일 일괄 다운로드 기능 개발
 
 2020.09 ~ 2021.01
 
