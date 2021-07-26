@@ -6,7 +6,7 @@ description: 고영훈(Young) - Backend engineer
 
 ## I**ntroduce**
 
-2017년 풀 스택 웹 개발자로 시작하여 2018년부터 백엔드 개발을 하는 고영훈입니다. 신규 서비스 및 기능 개발부터 CI/CD pipe line 을 이용한 배포 및 컨테이너, 클라우드 환경 구축과 운영까지 경험이 있습니다. Backend 와 devops 모두 관심이 있으며, Monolithic 으로 개발되고 운영 중이던 서비스를 주도하여 컨테이너화 및 aws 환경에서 docker swarm cluster 로 전환한 경험이 있습니다. Domain-driven design 과 Microservice architecture 를 주로 공부하여 사용하고 있습니다.
+2017년 풀 스택 웹 개발자로 시작하여 2018년부터 백엔드 개발을 하는 고영훈입니다. 신규 서비스 및 기능 개발부터 CI/CD pipe line 을 이용한 배포 및 컨테이너, 클라우드 환경 구축과 운영까지 경험이 있습니다. Backend 와 devops 모두 관심이 있으며, Monolithic 으로 개발되고 운영 중이던 서비스를 주도하여 컨테이너화 및 aws 환경에서 docker swarm cluster 로 전환한 경험이 있습니다. Domain-driven design 과 Microservice architecture 를 공부하여 사용한 경험이 있습니다.
 
 서비스를 발전시키고 고도화시키는 것을 좋아합니다. 비즈니스와 규모에 따라 알맞은 서비스를 디자인하고 개발 하기 위해 서비스 개발부터 운영까지 고루 볼 수 있는 능력을 키우기 위해 계속해서 공부하고 있습니다. 변경에 유연하며 견고한 성능을 가진 서비스로 다양한 도메인을 표현해낼 수 있는 개발자가 되려고 노력하고 있습니다.
 
