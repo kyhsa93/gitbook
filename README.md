@@ -16,7 +16,7 @@ description: 고영훈(Young) - Backend engineer
 
 ### 모두싸인 - backend engineer
 
-42만 고객을 보유한 국내 1위 전자계약 서비스
+국내 1위 전자계약 서비스
 
 2019.07 ~ 재직중
 
