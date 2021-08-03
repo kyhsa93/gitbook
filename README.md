@@ -53,7 +53,7 @@ description: 고영훈(Young) - Backend engineer
 
 ## Project
 
-#### 모두싸인 API 임베디드 기능 개
+#### 모두싸인 API 임베디드 기능 개발
 
 2021.05 ~ 2021.07
 
