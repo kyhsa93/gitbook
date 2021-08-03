@@ -53,6 +53,13 @@ description: 고영훈(Young) - Backend engineer
 
 ## Project
 
+#### 모두싸인 API 임베디드 기능 개
+
+2021.05 ~ 2021.07
+
+* 모두싸인 API 기능에 임베디드 기능 추가
+* API Client 를 위한 BFF 와 하위 서비스 기능 개
+
 #### 모두싸인 문서 파일 일괄 다운로드 기능 개발
 
 2020.09 ~ 2021.01
